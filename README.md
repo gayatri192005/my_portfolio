@@ -55,10 +55,10 @@ A huge thanks to her for building such a clean, elegant, and developer-friendly 
 
 ```bash
 # Clone the repo
-git clone https://github.com/lokeshagarwal2304/lokeshagarwal2304.github.io.git
+git clone https://github.com/gayatri192005/gayatri192005.github.io.git
 
 # Go into the folder
-cd lokeshagarwal2304.github.io
+cd gayatri192005.github.io
 
 # Open index.html in your preferred editor or run live server
 ````
@@ -84,16 +84,6 @@ If you found this useful, feel free to:
 ⭐️ **Star** this repo
 🍴 **Fork** and make your own version
 📣 **Tag me** if you use it, I’d love to see it!
-
----
-
-## 📬 Let’s Connect
-
-* GitHub: [lokeshagarwal2304](https://github.com/lokeshagarwal2304)
-* LinkedIn: [lokeshagarwal2304](https://linkedin.com/in/lokeshagarwal2304)
-* Instagram: [*lokesh.*.agarwal\_](https://instagram.com/_lokesh._.agarwal_)
-* Snapchat: [lagarwal.23](https://www.snapchat.com/add/lagarwal.23)
-* Twitter: [@lokeshagarwal2304](https://twitter.com/lokeshagarwal2304)
 
 ---
 
